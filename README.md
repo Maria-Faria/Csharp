@@ -11,4 +11,4 @@
 - Criação de variáveis do tipo string (e armazenamento de textos nas mesmas)
 - Exibição de mensagens na tela
   
-![ex1cs](https://github.com/Maria-Faria/Csharp/assets/114308727/8154a744-fd6d-4621-b2a2-4dec8df66aca)
+<img src="https://github.com/Maria-Faria/Csharp/assets/114308727/8154a744-fd6d-4621-b2a2-4dec8df66aca" style="width:400px">
