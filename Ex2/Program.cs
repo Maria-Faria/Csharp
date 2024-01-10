@@ -24,25 +24,7 @@ Console.WriteLine(linguagens[0]);//Exibir o valor "C#" no console, utilizando a 
 void EscolherUmaLinguagem(int n, string[] linguagens)
 {
     Console.WriteLine();
-
-    switch(n)
-    { 
-        case 1:
-            Console.WriteLine($"Linguagem correspondente na lista: {linguagens[n - 1]}");
-            break;
-
-        case 2:
-            Console.WriteLine($"Linguagem correspondente na lista: {linguagens[n - 1]}");
-            break;
-
-        case 3:
-            Console.WriteLine($"Linguagem correspondente na lista: {linguagens[n - 1]}");
-            break;
-
-        default:
-            Console.WriteLine("Linguagem não encontrada");
-            break;
-    }
+    Console.WriteLine($"Linguagem correspondente na lista: {linguagens[n - 1]}");
 }
 
 Console.WriteLine(@"
