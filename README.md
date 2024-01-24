@@ -22,3 +22,11 @@
 - Exibição do conteúdo da lista, tendo como base uma posição específica
 
 ![image](https://github.com/Maria-Faria/Csharp/assets/114308727/01cfb9ef-ba5f-4136-bbac-c6b489988907)
+
+<h3>Exercício 3</h3>
+
+- Interpolação de Strings
+- Criação de listas de strings e inteiros
+- Manipulação de listas utilizando as estruturas de repetição _for_ e _foreach_
+
+![image](https://github.com/Maria-Faria/Csharp/assets/114308727/9ccd7b7e-53f0-4fbb-963a-9c3f44f42ba8)
