@@ -1,0 +1,15 @@
+C:\Users\maria\OneDrive\Área de Trabalho\Estudo\C#\Exercicios_OO\Exercicios_OO\bin\Debug\net8.0\Exercicios_OO.exe
+C:\Users\maria\OneDrive\Área de Trabalho\Estudo\C#\Exercicios_OO\Exercicios_OO\bin\Debug\net8.0\Exercicios_OO.deps.json
+C:\Users\maria\OneDrive\Área de Trabalho\Estudo\C#\Exercicios_OO\Exercicios_OO\bin\Debug\net8.0\Exercicios_OO.runtimeconfig.json
+C:\Users\maria\OneDrive\Área de Trabalho\Estudo\C#\Exercicios_OO\Exercicios_OO\bin\Debug\net8.0\Exercicios_OO.dll
+C:\Users\maria\OneDrive\Área de Trabalho\Estudo\C#\Exercicios_OO\Exercicios_OO\bin\Debug\net8.0\Exercicios_OO.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\Estudo\C#\Exercicios_OO\Exercicios_OO\obj\Debug\net8.0\Exercicios_OO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\OneDrive\Área de Trabalho\Estudo\C#\Exercicios_OO\Exercicios_OO\obj\Debug\net8.0\Exercicios_OO.AssemblyInfoInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\Estudo\C#\Exercicios_OO\Exercicios_OO\obj\Debug\net8.0\Exercicios_OO.AssemblyInfo.cs
+C:\Users\maria\OneDrive\Área de Trabalho\Estudo\C#\Exercicios_OO\Exercicios_OO\obj\Debug\net8.0\Exercicios_OO.csproj.CoreCompileInputs.cache
+C:\Users\maria\OneDrive\Área de Trabalho\Estudo\C#\Exercicios_OO\Exercicios_OO\obj\Debug\net8.0\Exercicios_OO.sourcelink.json
+C:\Users\maria\OneDrive\Área de Trabalho\Estudo\C#\Exercicios_OO\Exercicios_OO\obj\Debug\net8.0\Exercicios_OO.dll
+C:\Users\maria\OneDrive\Área de Trabalho\Estudo\C#\Exercicios_OO\Exercicios_OO\obj\Debug\net8.0\refint\Exercicios_OO.dll
+C:\Users\maria\OneDrive\Área de Trabalho\Estudo\C#\Exercicios_OO\Exercicios_OO\obj\Debug\net8.0\Exercicios_OO.pdb
+C:\Users\maria\OneDrive\Área de Trabalho\Estudo\C#\Exercicios_OO\Exercicios_OO\obj\Debug\net8.0\Exercicios_OO.genruntimeconfig.cache
+C:\Users\maria\OneDrive\Área de Trabalho\Estudo\C#\Exercicios_OO\Exercicios_OO\obj\Debug\net8.0\ref\Exercicios_OO.dll
