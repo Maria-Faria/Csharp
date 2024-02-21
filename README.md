@@ -37,3 +37,10 @@
 
   ![image](https://github.com/Maria-Faria/Csharp/assets/114308727/48d8fe9d-a1e5-4f57-a7a5-d2553696fa76)
 
+<h3>Exercício OO</h3>
+
+- Criação de classes
+- Criação de métodos em classes
+
+  ![image](https://github.com/Maria-Faria/Csharp/assets/114308727/c9d1ddbe-05f9-4a7f-949c-520d69888ecf)
+
