@@ -44,3 +44,10 @@
 
   ![image](https://github.com/Maria-Faria/Csharp/assets/114308727/c9d1ddbe-05f9-4a7f-949c-520d69888ecf)
 
+<h3>Exercício 6</h3>
+
+- Criação de `properties`
+- Personalização do método `set` em `properties`
+
+  ![image](https://github.com/Maria-Faria/Csharp/assets/114308727/c41cfb92-d02d-482b-8273-f39d35991ed6)
+
